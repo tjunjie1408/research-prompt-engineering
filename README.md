@@ -63,7 +63,7 @@ Start with question 1 only.
 
 ## 6. Where the questions come from
 
-The question-driven approach is adapted from a short video on reading papers with AI.
+The question-driven approach is adapted on reading papers with AI.
 It groups 20 questions into five sets:
 
 1. Is it worth reading? (core problem, why it matters, real novelty, what is left without buzzwords)
@@ -72,6 +72,6 @@ It groups 20 questions into five sets:
 4. Don't be fooled by a pretty p-value (practical significance, robust vs fragile results, odd results, when it fails)
 5. Grow your next study from it (other settings, unresolved issues, three next questions, link to your own work)
 
-The video also gives two rules for the prompt itself: "Don't just summarize; review it like
+There also two rules for the prompt itself: "Don't just summarize; review it like
 a critical peer reviewer" and "For every judgment, cite where the evidence is; don't write
 speculation as fact."
