@@ -1,6 +1,6 @@
 # Research Sense in the Loop — prompt kit
 
-From the DevDay Exchange Community talk "Codex as a Research Partner". Copy, adapt, and keep your own judgment in the loop.
+Copy, adapt, and keep your own judgment in the loop.
 
 ## 1. Three questions instead of "summarize"
 
